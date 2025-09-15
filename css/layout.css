@@ -37,7 +37,7 @@
 .footer-col-3 .social-media-list li {
   display: flex;
   align-items: center;   /* 垂直居中对齐 */
-  justify-content: flex-end; /* 让内容靠右 */
+  justify-content: flex-start;
   margin: 4px 0;
   gap: 6px;  /* 图标和文字之间留点间距 */
 }
