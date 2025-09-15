@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 4px solid $clemson-blue;
+	border-bottom: 4px solid $clemson-deepblue;
     min-height: 56px;
     background: $clemson-deepblue;
     // Positioning context for the mobile navigation icon
@@ -91,7 +91,7 @@ color: #522d80;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
-	border-color: $clemson-blue;
+	border-color: $clemson-purple;
 	min-width: 265px;
 
 	z-index:2147483647;
