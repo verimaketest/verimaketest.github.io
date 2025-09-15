@@ -479,33 +479,27 @@ permalink: /publications/
 ====== 
 ------
 
-<div style="padding: 15px; margin-bottom: 20px;">
+<div style="padding:15px; margin-bottom:28px;">
   <div style="display:flex; align-items:flex-start;">
-    <!-- venue 方框 -->
-    <span style="
-      display:inline-flex;
-      align-items:flex-start;
-      justify-content:center;
-      width:90px;
-      min-height:28px;
-      border-radius:4px;
-      background-color:#009; /* 蓝色，可改 */
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-      margin-right:12px;
-      padding:3px 6px;
-    ">MDPI</span>
-    <h3 style="margin:0; flex:1;">
+    <div style="flex:0 0 100px; display:flex; align-items:flex-start; justify-content:flex-start;">
+      <span style="
+        display:inline-block;
+        width:90px; min-height:28px;       /* 统一尺寸；顶对齐 */
+        padding:3px 6px; border-radius:4px;
+        background:#1E3A8A; color:#fff;    /* 期刊=蓝；会议可换成 #166534 */
+        font-weight:700; font-size:14px; text-align:center;
+      ">MDPI</span>
+    </div>
+    <h3 style="margin:0; flex:1; font-style:italic;">
       MLoF: Machine Learning Accelerators for the Low-Cost FPGA Platforms
     </h3>
   </div>
-  <p style="margin: 5px 0;">
-    DOI: <a href="https://doi.org/10.3390/app12010089">10.3390/app12010089</a>
-  </p>
-  <p style="margin: 5px 0;">
-    <i>Applied Sciences, 2021, 12(1): 89.</i>
-  </p>
+  <div style="padding-left:100px; margin-top:6px;">
+    <p style="margin:6px 0;">DOI:
+      <a href="https://doi.org/10.3390/app12010089">10.3390/app12010089</a>
+    </p>
+    <p style="margin:6px 0;"><i>Applied Sciences, 2021, 12(1): 89.</i></p>
+  </div>
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
