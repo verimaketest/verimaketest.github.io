@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Publications
+permalink: /publications/
 ---
 
 Tell us about your blog. Hopefully it's cool.
