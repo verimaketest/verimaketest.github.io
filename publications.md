@@ -24,19 +24,9 @@ permalink: /publications/
 ======  
 ------
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">TVLSI</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">TVLSI</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">FASE: An FPGA-Based Accelerator for Lightweight Sample Entropy with Monte Carlo Sampling</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://doi.org/10.1109/TVLSI.2025.3593020" >10.1109/TVLSI.2025.3593020</a></p>
@@ -144,7 +134,7 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; justify-content:center;">
+  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
     <span style="
       display:inline-flex;
       align-items:center;
@@ -194,9 +184,10 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; justify-content:center;">
+  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
     <span style="
       display:inline-flex;
+      align-items:center;
       justify-content:center;
       width:90px;       /* 固定宽度 */
       height:28px;      /* 固定高度 */
@@ -488,26 +479,33 @@ permalink: /publications/
 ====== 
 ------
 
-<div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
+<div style="padding: 15px; margin-bottom: 20px;">
+  <div style="display:flex; align-items:flex-start;">
+    <!-- venue 方框 -->
     <span style="
       display:inline-flex;
-      align-items:center;
+      align-items:flex-start;
       justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
+      width:90px;
+      min-height:28px;
       border-radius:4px;
-      background-color:#009;
+      background-color:#009; /* 蓝色，可改 */
       color:#fff;
       font-size:14px;
       font-weight:bold;
+      margin-right:12px;
+      padding:3px 6px;
     ">MDPI</span>
+    <h3 style="margin:0; flex:1;">
+      MLoF: Machine Learning Accelerators for the Low-Cost FPGA Platforms
+    </h3>
   </div>
-    <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">MLoF: Machine Learning Accelerators for the Low-Cost FPGA Platforms</h3>
-        <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.3390/app12010089" >10.3390/app12010089</a></p>
-        <p style="margin: 5px 0;"><i>Applied sciences, 2021, 12(1): 89.</i></p>
-    </div>
+  <p style="margin: 5px 0;">
+    DOI: <a href="https://doi.org/10.3390/app12010089">10.3390/app12010089</a>
+  </p>
+  <p style="margin: 5px 0;">
+    <i>Applied Sciences, 2021, 12(1): 89.</i>
+  </p>
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
