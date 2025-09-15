@@ -40,7 +40,7 @@ permalink: /publications/
       ">TVLSI</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;font-style: normal;">FASE: An FPGA-Based Accelerator for Lightweight Sample Entropy with Monte Carlo Sampling</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">FASE: An FPGA-Based Accelerator for Lightweight Sample Entropy with Monte Carlo Sampling</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://doi.org/10.1109/TVLSI.2025.3593020" >10.1109/TVLSI.2025.3593020</a></p>
         <p style="margin: 5px 0;"><i>IEEE Transactions on Very Large Scale Integration Systems (Early Access)</i></p>
     </div>
@@ -63,7 +63,7 @@ permalink: /publications/
       ">ICCAD</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">	Hummingbird: A Smaller and Faster Large Language Model Accelerator on Embedded FPGA </h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">	Hummingbird: A Smaller and Faster Large Language Model Accelerator on Embedded FPGA </h3>
         <p style="margin: 5px 0;">DOI: <a href="https://arxiv.org/abs/2507.03308" >TBD</a></p>
         <p style="margin: 5px 0;"><i>Proceedings of the 44th IEEE/ACM International Conference on Computer-Aided Design</i></p>
     </div>
@@ -86,7 +86,7 @@ permalink: /publications/
       ">ICCAD</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">	Diff-DiT: Temporal Differential Accelerator for Low-bit Diffusion Transformers on FPGA </h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">	Diff-DiT: Temporal Differential Accelerator for Low-bit Diffusion Transformers on FPGA </h3>
         <p style="margin: 5px 0;">DOI: <a href="https://2025.iccad.com/" >TBD</a></p>
         <p style="margin: 5px 0;"><i>Proceedings of the 44th IEEE/ACM International Conference on Computer-Aided Design</i></p>
     </div>
@@ -109,7 +109,7 @@ permalink: /publications/
       ">TCAD</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">DIF-LUT Pro: An Automated Tool for Simple yet Scalable Approximation of Nonlinear Activation on FPGA</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">DIF-LUT Pro: An Automated Tool for Simple yet Scalable Approximation of Nonlinear Activation on FPGA</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://ieeexplore.ieee.org/document/11023583" >10.1109/TCAD.2025.3576333</a></p>
         <p style="margin: 5px 0;"><i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (Early Access)</i></p>
     </div>
@@ -132,7 +132,7 @@ permalink: /publications/
       ">TECS</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">Diff-Acc: An Efficient FPGA Accelerator for Unconditional Diffusion Models</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">Diff-Acc: An Efficient FPGA Accelerator for Unconditional Diffusion Models</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://dl.acm.org/doi/10.1145/3728470" >10.1145/3728470</a></p>
         <p style="margin: 5px 0;"><i>ACM Transactions on Embedded Computing Systems (Early Access)</i></p>
     </div>
@@ -155,7 +155,7 @@ permalink: /publications/
       ">ISEDA</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">	ChaTCL: LLM-Based Multi-Agent RAG Framework for TCL Script Generation </h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">	ChaTCL: LLM-Based Multi-Agent RAG Framework for TCL Script Generation </h3>
         <p style="margin: 5px 0;">DOI: <a href="https://ieeexplore.ieee.org/abstract/document/11101624" >10.1109/ISEDA65950.2025.11101624</a></p>
         <p style="margin: 5px 0;"><i>2025 3rd International Symposium of Electronics Design Automation</i></p>
     </div>
@@ -178,7 +178,7 @@ permalink: /publications/
       ">FCCM</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">	TrackGNN: A Highly Parallelized and Self-Adaptive GNN Accelerator for Track Reconstruction on FPGAs</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">	TrackGNN: A Highly Parallelized and Self-Adaptive GNN Accelerator for Track Reconstruction on FPGAs</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://ieeexplore.ieee.org/document/11008968" >10.1109/FCCM62733.2025.00029</a></p>
         <p style="margin: 5px 0;"><i>2025 IEEE 33rd Annual International Symposium on Field-Programmable Custom Computing Machines</i></p>
     </div>
@@ -201,7 +201,7 @@ permalink: /publications/
       ">FCCM</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">FPGA-based Approximate Multiplier for FP8</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">FPGA-based Approximate Multiplier for FP8</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://ieeexplore.ieee.org/document/11008970" >10.1109/FCCM62733.2025.00079</a></p>
         <p style="margin: 5px 0;"><i>2025 IEEE 33rd Annual International Symposium on Field-Programmable Custom Computing Machines</i></p>
     </div>
@@ -224,7 +224,7 @@ permalink: /publications/
       ">TSUSC</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://ieeexplore.ieee.org/document/10884806" >10.1109/TSUSC.2025.3541958</a></p>
         <p style="margin: 5px 0;"><i>IEEE Transactions on Sustainable Computing (Early Access)</i></p>
     </div>
@@ -247,7 +247,7 @@ permalink: /publications/
       ">DATE</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">ATE-GCN: An FPGA-based Graph Convolutional Network Accelerator with Asymmetrical Ternary Quantization</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">ATE-GCN: An FPGA-based Graph Convolutional Network Accelerator with Asymmetrical Ternary Quantization</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://ieeexplore.ieee.org/document/10993065" >10.23919/DATE64628.2025.10993065</a></p>
         <p style="margin: 5px 0;"><i>2025 Design, Automation & Test in Europe Conference & Exhibition</i></p>
     </div>
@@ -276,7 +276,7 @@ permalink: /publications/
       ">arXiv</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">A Power-Efficient Hardware Implementation of L-Mul</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">A Power-Efficient Hardware Implementation of L-Mul</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://doi.org/10.48550/arXiv.2412.18948" >10.48550/arXiv.2412.18948</a></p>
         <p style="margin: 5px 0;"><i>arXiv, 2024, 1-6.</i></p>
     </div>
@@ -300,7 +300,7 @@ permalink: /publications/
     >TBioCAS</span>
   </div>
   <div style="flex: 1; padding-left: 20px;">
-    <h3 style="margin: 0;">
+    <h3 style="margin: 0;font-style: normal;font-weight: blod;">
       Vina-FPGA-Cluster: Multi-FPGA Based Molecular Docking Tool with High-Accuracy and Multi-Level Parallelism
     </h3>
     <p style="margin: 5px 0;">DOI:
@@ -329,7 +329,7 @@ permalink: /publications/
       ">TRETS</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">FPGA-Based Sparse Matrix Multiplication Accelerators: From State-of-the-art to Future Opportunities</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">FPGA-Based Sparse Matrix Multiplication Accelerators: From State-of-the-art to Future Opportunities</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://dl.acm.org/doi/10.1145/3687480" >10.1145/3687480</a></p>
         <p style="margin: 5px 0;"><i>ACM Transactions on Reconfigurable Technology and Systems, 2024, 17(4), Article 59 (November 2024): 1-37.</i></p>
     </div>
@@ -352,7 +352,7 @@ permalink: /publications/
       ">DATE</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">S-LGCN: Software-Hardware Co-Design for Accelerating LightGCN</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">S-LGCN: Software-Hardware Co-Design for Accelerating LightGCN</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://ieeexplore.ieee.org/abstract/document/10546640" >10.23919/DATE58400.2024.10546640</a></p>
         <p style="margin: 5px 0;"><i>2024 Design, Automation & Test in Europe Conference & Exhibition</i></p>
     </div>
@@ -382,7 +382,7 @@ permalink: /publications/
       ">FPL</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">Graph-OPU: A Highly Integrated FPGA-Based Overlay Processor for Graph Neural Networks</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">Graph-OPU: A Highly Integrated FPGA-Based Overlay Processor for Graph Neural Networks</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1109/FPL60245.2023.00039" >10.1109/FPL60245.2023.00039</a></p>
         <p style="margin: 5px 0;"><i>2023 33rd International Conference on Field-Programmable Logic and Applications</i></p>
     </div>
@@ -405,7 +405,7 @@ permalink: /publications/
       ">FPL</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">FPGA Accelerating Multi-source Transfer Learning with GAT for Bioactivities of Ligands Targeting Orphan G Protein-coupled Receptors</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">FPGA Accelerating Multi-source Transfer Learning with GAT for Bioactivities of Ligands Targeting Orphan G Protein-coupled Receptors</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1109/FPL60245.2023.00054" >10.1109/FPL60245.2023.00054</a></p>
         <p style="margin: 5px 0;"><i>2023 33rd International Conference on Field-Programmable Logic and Applications</i></p>
     </div>
@@ -428,7 +428,7 @@ permalink: /publications/
       ">ICC</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">g-BERT: Enabling Green BERT Deployment on FPGA via Hardware-Aware Hybrid Pruning</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">g-BERT: Enabling Green BERT Deployment on FPGA via Hardware-Aware Hybrid Pruning</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1109/ICC45041.2023.10278567" >10.1109/ICC45041.2023.10278567</a></p>
         <p style="margin: 5px 0;"><i>2023 IEEE International Conference on Communications</i></p>
     </div>
@@ -451,7 +451,7 @@ permalink: /publications/
       ">ISCAS</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">eSSpMV: An Embedded-FPGA-based Hardware Accelerator for Symmetric Sparse Matrix-Vector Multiplication</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">eSSpMV: An Embedded-FPGA-based Hardware Accelerator for Symmetric Sparse Matrix-Vector Multiplication</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1109/ISCAS46773.2023.10181734" >10.1109/ISCAS46773.2023.10181734</a></p>
         <p style="margin: 5px 0;"><i>2023 IEEE International Symposium on Circuits and Systems</i></p>
     </div>
@@ -474,7 +474,7 @@ permalink: /publications/
       ">ISCAS</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">Edge FPGA-based Onsite Neural Network Training</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">Edge FPGA-based Onsite Neural Network Training</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1109/ISCAS46773.2023.10181582" >10.1109/ISCAS46773.2023.10181582</a></p>
         <p style="margin: 5px 0;"><i>2023 IEEE International Symposium on Circuits and Systems</i></p>
     </div>
@@ -497,7 +497,7 @@ permalink: /publications/
       ">TVLSI</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">Vina-FPGA: A Hardware-Accelerated Molecular Docking Tool With Fixed-Point Quantization and Low-Level Parallelism</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">Vina-FPGA: A Hardware-Accelerated Molecular Docking Tool With Fixed-Point Quantization and Low-Level Parallelism</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1109/TVLSI.2022.3217275" >10.1109/TVLSI.2022.3217275</a></p>
         <p style="margin: 5px 0;"><i>IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2023, 31(4): 484-497.</i></p>
     </div>
@@ -520,7 +520,7 @@ permalink: /publications/
       ">FPGA</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">Graph-OPU: An FPGA-Based Overlay Processor for Graph Neural Networks</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">Graph-OPU: An FPGA-Based Overlay Processor for Graph Neural Networks</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1145/3543622.3573152" >10.1145/3543622.3573152</a></p>
         <p style="margin: 5px 0;"><i>Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays</i></p>
     </div>
@@ -550,7 +550,7 @@ permalink: /publications/
       ">PeerJ</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">A survey of field programmable gate array (FPGA)-based graph convolutional neural network accelerators: challenges and opportunities</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">A survey of field programmable gate array (FPGA)-based graph convolutional neural network accelerators: challenges and opportunities</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.7717/peerj-cs.1166" >10.7717/peerj-cs.1166</a></p>
         <p style="margin: 5px 0;"><i>PeerJ Computer Science, 2022, 8: e1166.</i></p>
     </div>
@@ -573,7 +573,7 @@ permalink: /publications/
       ">MDPI</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">Evaluation of Fast Sample Entropy Algorithms on FPGAs: From Performance to Energy Efficiency</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">Evaluation of Fast Sample Entropy Algorithms on FPGAs: From Performance to Energy Efficiency</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.3390/e24091177" >10.3390/e24091177</a></p>
         <p style="margin: 5px 0;"><i>Entropy, 2022, 24(9): 1177.</i></p>
     </div>
@@ -596,7 +596,7 @@ permalink: /publications/
       ">ERA</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">Hardware-friendly compression and hardware acceleration for transformer: A survey</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">Hardware-friendly compression and hardware acceleration for transformer: A survey</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.3934/era.2022192" >10.3934/era.2022192</a></p>
         <p style="margin: 5px 0;"><i>Electronic Research Archive, 2022, 30(10): 3755-3785.</i></p>
     </div>
@@ -619,7 +619,7 @@ permalink: /publications/
       ">IJSN</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">Implementation of quasi-Newton algorithm on FPGA for IoT endpoint devices</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">Implementation of quasi-Newton algorithm on FPGA for IoT endpoint devices</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1504/IJSN.2022.123300" >10.1504/IJSN.2022.123300</a></p>
         <p style="margin: 5px 0;"><i>International Journal of Security and Networks, 2022, 17(2): 124-134.</i></p>
     </div>
@@ -642,7 +642,7 @@ permalink: /publications/
       ">FCCM</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">Biological Activity Prediction of GPCR-targeting Ligands on Heterogeneous FPGA-based Accelerators</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">Biological Activity Prediction of GPCR-targeting Ligands on Heterogeneous FPGA-based Accelerators</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1109/FCCM53951.2022.9786139" >10.1109/FCCM53951.2022.9786139</a></p>
         <p style="margin: 5px 0;"><i>2022 IEEE 30th Annual International Symposium on Field-Programmable Custom Computing Machines</i></p>
     </div>
@@ -665,7 +665,7 @@ permalink: /publications/
       ">MDPI</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">Accelerating AutoDock VINA with GPUs</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">Accelerating AutoDock VINA with GPUs</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.3390/molecules27093041" >10.3390/molecules27093041</a></p>
         <p style="margin: 5px 0;"><i>Molecules, 2022, 27(9): 3041.</i></p>
     </div>
@@ -695,7 +695,7 @@ permalink: /publications/
       ">MDPI</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">MLoF: Machine Learning Accelerators for the Low-Cost FPGA Platforms</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">MLoF: Machine Learning Accelerators for the Low-Cost FPGA Platforms</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.3390/app12010089" >10.3390/app12010089</a></p>
         <p style="margin: 5px 0;"><i>Applied sciences, 2021, 12(1): 89.</i></p>
     </div>
@@ -718,7 +718,7 @@ permalink: /publications/
       ">PeerJ</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">Gutter oil detection for food safety based on multi-feature machine learning and implementation on FPGA with approximate multipliers</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">Gutter oil detection for food safety based on multi-feature machine learning and implementation on FPGA with approximate multipliers</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.7717/peerj-cs.774" >10.7717/peerj-cs.774</a></p>
         <p style="margin: 5px 0;"><i>PeerJ Computer Science, 2021, 7: e774.</i></p>
     </div>
@@ -741,7 +741,7 @@ permalink: /publications/
       ">JoC</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">Low-power Iris Recognition System Implementation on FPGA with Approximate Multiplier</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">Low-power Iris Recognition System Implementation on FPGA with Approximate Multiplier</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.53106/199115992021103205009" >10.53106/199115992021103205009</a></p>
         <p style="margin: 5px 0;"><i>Journal of Computers (TW), 2021, 32: 115-127.</i></p>
     </div>
@@ -765,7 +765,7 @@ permalink: /publications/
     >MBE</span>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3 style="margin: 0;">Wearable on-device deep learning system for hand gesture recognition based on FPGA accelerator</h3>
+        <h3 style="margin: 0;font-style: normal;font-weight: blod;">Wearable on-device deep learning system for hand gesture recognition based on FPGA accelerator</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.3934/mbe.20210079" >10.3934/mbe.2021007</a></p>
         <p style="margin: 5px 0;"><i>Mathematical Biosciences and Engineering, 2021, 18(1): 132-153.</i></p>
     </div>
