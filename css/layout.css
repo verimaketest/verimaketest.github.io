@@ -18,12 +18,13 @@
 /* 中列：描述 */
 .footer-col-2 {
   flex: 1 1 45%;   /* 占大约 45% */
+  text-align: left;
 }
 
 /* 右列：社交图标 */
 .footer-col-3 {
   flex: 1 1 25%;   /* 占大约 25%，留足空间 */
-  text-align: right;  /* 向右对齐 */
+  text-align: left;  /* 向右对齐 */
 }
 
 /* 让社交图标横向或纵向都美观 */
