@@ -1,5 +1,6 @@
 # Site settings
-title: Ruiqi Chen
+title: Ruiqi Chen's website
+brand: Ruiqi Chen's website          # 专门给导航栏左上角用（你想显示的固定名称）
 email: ruiqi.chen@vub.be
 description: "
   Department of Electronics and Informatics (ETRO)<br>
