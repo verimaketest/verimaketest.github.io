@@ -27,7 +27,6 @@ permalink: /publications/
   <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
     <span style="
       display:inline-flex;
-      align-items:center;
       justify-content:center;
       width:90px;       /* 固定宽度 */
       height:28px;      /* 固定高度 */
@@ -145,7 +144,7 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
+  <div style="flex: 0 0 100px; display:flex; justify-content:center;">
     <span style="
       display:inline-flex;
       align-items:center;
@@ -195,10 +194,9 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
+  <div style="flex: 0 0 100px; display:flex; justify-content:center;">
     <span style="
       display:inline-flex;
-      align-items:center;
       justify-content:center;
       width:90px;       /* 固定宽度 */
       height:28px;      /* 固定高度 */
