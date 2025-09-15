@@ -34,5 +34,20 @@
 }
 
 .footer-col-3 .social-media-list li {
+  display: flex;
+  align-items: center;   /* 垂直居中对齐 */
+  justify-content: flex-end; /* 让内容靠右 */
   margin: 4px 0;
+  gap: 6px;  /* 图标和文字之间留点间距 */
+}
+
+.footer-col-3 .social-media-list .icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;   /* 固定宽度保证对齐 */
+}
+
+.footer-col-3 .social-media-list .username {
+  display: inline-block;
 }
