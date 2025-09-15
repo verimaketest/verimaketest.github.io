@@ -57,20 +57,9 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">TCAD</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">TCAD</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">DIF-LUT Pro: An Automated Tool for Simple yet Scalable Approximation of Nonlinear Activation on FPGA</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://ieeexplore.ieee.org/document/11023583" >10.1109/TCAD.2025.3576333</a></p>
@@ -79,20 +68,9 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">TECS</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">TECS</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">Diff-Acc: An Efficient FPGA Accelerator for Unconditional Diffusion Models</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://dl.acm.org/doi/10.1145/3728470" >10.1145/3728470</a></p>
@@ -134,20 +112,9 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">TSUSC</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">TSUSC</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://ieeexplore.ieee.org/document/10884806" >10.1109/TSUSC.2025.3541958</a></p>
@@ -183,43 +150,23 @@ permalink: /publications/
     </div>
 </div>
 
-<div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">TBioCAS</span>
-  </div>
+<div style="padding: 15px; margin-bottom: 20px; display: flex; align-items: center;">
+    <div style="width: 100px; text-align: center;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">
+            TBioCAS
+        </span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">Vina-FPGA-Cluster: Multi-FPGA Based Molecular Docking Tool with High-Accuracy and Multi-Level Parallelism</h3>
-        <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1109/TBCAS.2024.3388323" >10.1109/TBCAS.2024.3388323</a></p>
+        <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1109/TBCAS.2024.3388323">10.1109/TBCAS.2024.3388323</a></p>
         <p style="margin: 5px 0;"><i>IEEE Transactions on Biomedical Circuits and Systems, 2024, 18(6): 1321-1337.</i></p>
     </div>
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">TRETS</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">TRETS</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">FPGA-Based Sparse Matrix Multiplication Accelerators: From State-of-the-art to Future Opportunities</h3>
         <p style="margin: 5px 0;">DOI: <a href="https://dl.acm.org/doi/10.1145/3687480" >10.1145/3687480</a></p>
@@ -301,20 +248,9 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">TVLSI</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">TVLSI</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">Vina-FPGA: A Hardware-Accelerated Molecular Docking Tool With Fixed-Point Quantization and Low-Level Parallelism</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1109/TVLSI.2022.3217275" >10.1109/TVLSI.2022.3217275</a></p>
@@ -341,20 +277,9 @@ permalink: /publications/
 ------
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">PeerJ</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">PeerJ</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">A survey of field programmable gate array (FPGA)-based graph convolutional neural network accelerators: challenges and opportunities</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.7717/peerj-cs.1166" >10.7717/peerj-cs.1166</a></p>
@@ -363,20 +288,9 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">MDPI</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">MDPI</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">Evaluation of Fast Sample Entropy Algorithms on FPGAs: From Performance to Energy Efficiency</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.3390/e24091177" >10.3390/e24091177</a></p>
@@ -385,20 +299,9 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">ERA</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">ERA</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">Hardware-friendly compression and hardware acceleration for transformer: A survey</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.3934/era.2022192" >10.3934/era.2022192</a></p>
@@ -407,20 +310,9 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">IJSN</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">IJSN</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">Implementation of quasi-Newton algorithm on FPGA for IoT endpoint devices</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1504/IJSN.2022.123300" >10.1504/IJSN.2022.123300</a></p>
@@ -429,20 +321,9 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#070;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">FCCM</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #070; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">FCCM</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">Biological Activity Prediction of GPCR-targeting Ligands on Heterogeneous FPGA-based Accelerators</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.1109/FCCM53951.2022.9786139" >10.1109/FCCM53951.2022.9786139</a></p>
@@ -451,20 +332,9 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">MDPI</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">MDPI</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">Accelerating AutoDock VINA with GPUs</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.3390/molecules27093041" >10.3390/molecules27093041</a></p>
@@ -479,44 +349,21 @@ permalink: /publications/
 ====== 
 ------
 
-<div style="padding:15px; margin-bottom:28px;">
-  <div style="display:flex; align-items:flex-start;">
-    <div style="flex:0 0 100px; display:flex; align-items:flex-start; justify-content:flex-start;">
-      <span style="
-        display:inline-block;
-        width:90px; min-height:28px;       /* 统一尺寸；顶对齐 */
-        padding:3px 6px; border-radius:4px;
-        background:#1E3A8A; color:#fff;    /* 期刊=蓝；会议可换成 #166534 */
-        font-weight:700; font-size:14px; text-align:center;
-      ">MDPI</span>
+<div style="padding: 15px; margin-bottom: 20px; display: flex;">
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">MDPI</span>
     </div>
-    <h3 style="margin:0; flex:1; font-style:italic;">
-      MLoF: Machine Learning Accelerators for the Low-Cost FPGA Platforms
-    </h3>
-  </div>
-  <div style="padding-left:100px; margin-top:6px;">
-    <p style="margin:6px 0;">DOI:
-      <a href="https://doi.org/10.3390/app12010089">10.3390/app12010089</a>
-    </p>
-    <p style="margin:6px 0;"><i>Applied Sciences, 2021, 12(1): 89.</i></p>
-  </div>
+    <div style="flex: 1; padding-left: 20px;">
+        <h3 style="margin: 0;">MLoF: Machine Learning Accelerators for the Low-Cost FPGA Platforms</h3>
+        <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.3390/app12010089" >10.3390/app12010089</a></p>
+        <p style="margin: 5px 0;"><i>Applied sciences, 2021, 12(1): 89.</i></p>
+    </div>
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">PeerJ</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">PeerJ</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">Gutter oil detection for food safety based on multi-feature machine learning and implementation on FPGA with approximate multipliers</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.7717/peerj-cs.774" >10.7717/peerj-cs.774</a></p>
@@ -525,20 +372,9 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">JoC</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">JoC</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">Low-power Iris Recognition System Implementation on FPGA with Approximate Multiplier</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.53106/199115992021103205009" >10.53106/199115992021103205009</a></p>
@@ -547,20 +383,9 @@ permalink: /publications/
 </div>
 
 <div style="padding: 15px; margin-bottom: 20px; display: flex;">
-  <div style="flex: 0 0 100px; display:flex; align-items:center; justify-content:center;">
-    <span style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      width:90px;       /* 固定宽度 */
-      height:28px;      /* 固定高度 */
-      border-radius:4px;
-      background-color:#009;
-      color:#fff;
-      font-size:14px;
-      font-weight:bold;
-    ">MBE</span>
-  </div>
+    <div style="flex: 0 0 80px;">
+        <span style="background-color: #009; color: #fff; padding: 3px 8px; font-size: 14px; font-weight: bold; border-radius: 3px; display: inline-block;">MBE</span>
+    </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3 style="margin: 0;">Wearable on-device deep learning system for hand gesture recognition based on FPGA accelerator</h3>
         <p style="margin: 5px 0;">DOI: <a href="http://dx.doi.org/10.3934/mbe.20210079" >10.3934/mbe.2021007</a></p>
