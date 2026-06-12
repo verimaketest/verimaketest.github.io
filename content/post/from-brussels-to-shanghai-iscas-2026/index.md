@@ -4,7 +4,9 @@ date: 2026-05-27
 authors:
   - ruiqi-chen
   - abdessamad-nassihi
-  - bruno-silva
+  - bruno-da-silva
+categories:
+  - Homepage
 tags:
   - ISCAS 2026
   - Conference

@@ -12,7 +12,7 @@ content:
   count: 4
   filters:
     author: ""
-    category: ""
+    category: "Homepage"
     exclude_featured: false
     publication_type: ""
     tag: ""

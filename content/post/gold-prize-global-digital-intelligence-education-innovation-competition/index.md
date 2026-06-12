@@ -5,6 +5,8 @@ authors:
   - shidi-tang
   - ruiqi-chen
   - bruno-da-silva
+categories:
+  - Homepage
 tags:
   - Award
   - AI for Science
