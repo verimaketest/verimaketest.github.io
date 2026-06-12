@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Abdessamad Nassihi
+title: Workineh Tesema Gudisa
 
 weight: 30
 
 # Username (this should match the folder name)
 authors:
-  - abdessamad-nassihi
+  - workineh-tesema-gudisa
 
 # Is this the primary user of the site?
 superuser: false
@@ -43,10 +43,10 @@ organizations:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'abdessamad.nassihi@vub.be'
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'shidi.tang@vub.be'
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Shidi-Tang-3
@@ -66,7 +66,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'abdessamad.nassihi@vub.be'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,6 +74,6 @@ user_groups:
   - PhD Students
 ---
 
-<!-- Shidi is currently a Ph.D candidate advised by Prof. Ming of EECS-Ling Lab from School of Integrated Circuits, Southeast University. He is also a visiting Ph.D student advised by Prof. Bruno da Silva of ETRO from Vrije Universiteit Brussel.
+## Design Optimization Towards Sustainable And Constrained Medical Wearable Device
 
-He received his B.S. and M.S. degrees from Central China Normal University (CCNU) and Nanjing University of Posts and Telecommunications (NJUPT), separately. -->
+Nowadays physiological monitoring systems are becoming completely wearable devices, in healthcare, which are smart and power efficient devices for healthcare remote monitoring, diagnosis and prevention. The design and development of a new generation of sustainable and low-cost medical wearable devices present several challenges that need to be addressed from a global perspective. The ultimate intention of this PhD is to propose a novel solution for specific needs of medical wearables and exploit the characteristics of bio-signals to develop energy-efficient strategies using AI. PPG is an attractive bio-signal, especially for wearable applications used for PPG signal data collection and analysis.

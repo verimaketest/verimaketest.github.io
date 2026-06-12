@@ -16,8 +16,8 @@ role: PhD Students
 
 # Organizations/Affiliations
 organizations:
-  - name: Southeast University
-    url: 'www.seu.edu.cn'
+  - name: VUB
+    url: 'www.vub.be'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -46,19 +46,19 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'shidi.tang@vub.be'
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Shidi-Tang-3
+  link: 'ahamed.sadaqa@vub.be'
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Shidi-Tang-3
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=mf6xshEAAAAJ
-- icon: github
-  icon_pack: ai
-  link: https://github.com/Glinttsd
-- icon: link
-  icon_pack: fas
-  link: https://glinttsd.github.io/
+  link: https://scholar.google.com/citations?user=b4vfxvAAAAAJ
+# - icon: github
+#   icon_pack: ai
+#   link: https://github.com/Glinttsd
+# - icon: link
+#   icon_pack: fas
+#   link: https://glinttsd.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,14 +66,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'ahamed.sadaqa@vub.be'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - PhD Students
 ---
-
+<!-- 
 Shidi is currently a Ph.D candidate advised by Prof. Ming of EECS-Ling Lab from School of Integrated Circuits, Southeast University. He is also a visiting Ph.D student advised by Prof. Bruno da Silva of ETRO from Vrije Universiteit Brussel.
 
-He received his B.S. and M.S. degrees from Central China Normal University (CCNU) and Nanjing University of Posts and Telecommunications (NJUPT), separately.
+He received his B.S. and M.S. degrees from Central China Normal University (CCNU) and Nanjing University of Posts and Telecommunications (NJUPT), separately. -->

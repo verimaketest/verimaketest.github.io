@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Muhammad IQBAL Khan
+title: Muhammad Iqbal Khan
 
 weight: 30
 
 # Username (this should match the folder name)
 authors:
-  - iqbal-khan
+  - muhammad-iqbal-khan
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,7 +20,6 @@ organizations:
     url: 'https://www.vub.be/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on harnessing FPGA-technology for energy-constrained edge applications requiring continuous operation, with a particular focus on Flash-based FPGAs.
 
 #interests:
 #- Artificial Intelligence

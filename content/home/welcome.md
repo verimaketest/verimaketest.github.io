@@ -18,4 +18,8 @@ design:
 
 <br>
 
-Welcome visit HEAD (High-Energy-Efficiency AI Architectures & Devices) Lab. Our research group, led by Bruno da Silva, place holder tbd sentences. In this website you can learn more about our news, projects, publications, and current members.
+Welcome to the HEAD Lab — the Hybrid Embedded Artificial Intelligence and Digital Systems Laboratory.
+
+Led by Bruno da Silva, our research group develops low-power and energy-efficient AI/ML technologies for embedded and edge computing systems. We explore the intersection of artificial intelligence, intelligent hardware, and digital system design to enable efficient, reliable, and responsive computing at the edge.
+
+Explore our website to discover our latest news, research projects, publications, and current team members.
