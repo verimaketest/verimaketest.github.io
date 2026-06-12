@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Workineh Tesema Gudisa
+title: Workineh Tesema
 
 weight: 30
 
 # Username (this should match the folder name)
 authors:
-  - workineh-tesema-gudisa
+  - workineh-tesema
 
 # Is this the primary user of the site?
 superuser: false
