@@ -4,7 +4,6 @@ date: 2025-11-28
 authors:
   - bruno-da-silva
 categories:
-  - Homepage
   - Visit
 tags:
   - Visit

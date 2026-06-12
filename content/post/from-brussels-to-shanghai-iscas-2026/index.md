@@ -6,7 +6,6 @@ authors:
   - abdessamad-nassihi
   - bruno-da-silva
 categories:
-  - Homepage
   - Academic
 tags:
   - ISCAS 2026

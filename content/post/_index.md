@@ -1,5 +1,5 @@
 ---
 title: News
 cms_exclude: true
-view: 3
+view: 2
 ---

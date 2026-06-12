@@ -6,7 +6,6 @@ authors:
   - ruiqi-chen
   - bruno-da-silva
 categories:
-  - Homepage
   - Academic
 tags:
   - Award

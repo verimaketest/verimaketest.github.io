@@ -6,7 +6,6 @@ authors:
   - abdessamad-nassihi
   - ruiqi-chen
 categories:
-  - Homepage
   - Visit
 tags:
   - Visit
