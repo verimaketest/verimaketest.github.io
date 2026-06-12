@@ -25,6 +25,12 @@
   margin-top: 0;
 }
 
+.welcome-hero .hero-lead,
+.welcome-hero .hero-lead p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .welcome-hero .hero-media img {
   max-width: 440px;
   width: 78%;
