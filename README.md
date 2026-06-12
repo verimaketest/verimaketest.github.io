@@ -1,14 +1,19 @@
-Steve's No-Good-Very-Bad Jekyll Theme
-=====================================
+# Group website
 
-This is my custom Jekyll theme, which is basically [Joel Glovier](http://joelglovier.com/)'s `jekyll-new` theme smashed with [Alex King](http://www.alexking.org)'s [Favepersonal](https://crowdfavorite.com/favepersonal/) theme for Wordpress. I used Favepersonal for my Wordpress site before abandoning it. You can see my site at [svmiller.github.io](http://svmiller.github.io).
+This repository contains the source code to build website for the group. It is built using [Hugo](https://gohugo.io/) with the research group template from [Wowchemy](https://wowchemy.com/).
 
-Much of what is contained in here is derivative of those two works. That said, do observe the `embedpdf.html` and `image.html` files in the `_includes` directory. `embedpdf.html` uses Google Docs to allow for embedding of PDF files hosted on Dropbox. `image.html` provides fancier images than what is standard for Markdown. An example use of `embedpdf.html` can be observed in the `cv.md` file. An example use of `image.html` can be observed in the `about.md` file.
+The template code from Wowchemy was written by [George Cushen](https://georgecushen.com/), and is redistributed under the MIT License.
 
-I use data-driven navigation, which you can see in the `menu.yml` file in the `_data` directory. There's also a `nav.html` file in the `_includes` directory with modified `header.html`.
+# Instructions
 
-Mobile support is clearly functional, though some white-spacing could be improved. Feel free to offer improvements if you'd like.
+## Update the list of publications
 
-`css` and `_sass` directories also functional, if a bit cluttered. Do observe new colors I created for `$clemson-deepblue` and `$clemson-purple` in `css/main.scss`.
+You can manually add entries to the `publications.bib` file in `/static/`. An easy way to add all relevant publications is to go to [this INSPIRE page](https://inspirehep.net/authors/1020224), click on `cite all`, download the `bib` file, rename it to `publications.bib`, and replace the previous one.
 
-Feel free to contact me at svmille@clemson.edu. Send along some cheers too if you find it useful.
+## Add a new member profile
+
+Each profile is located in a directory in `/content/authors/`, and there is a template in `/templates/`. Replace `avatar.jpg` with a picture named `avatar.xxx` (can be jpg, png, ...), and edit `_index.md`, which is pretty self-explanatory.
+
+## Build the site
+
+GitHub will build the site  by itself, so you don't have to worry about it. If you are making big modifications and prefer to see the changes live as you make them, then download the extended edition of [Hugo](https://gohugo.io/), and follow the (very easy) instructions on that website.

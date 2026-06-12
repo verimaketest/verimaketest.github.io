@@ -1,0 +1,31 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: /#top
+    weight: 10
+  # - name: News
+  #   url: post
+  #   weight: 20
+  - name: People
+    url: people
+    weight: 20
+  # - name: Events
+  #   url: event
+  #   weight: 40
+  - name: Publications
+    url: publication
+    weight: 30
+  - name: Software
+    identifier: software
+    weight: 40
+  - name: CYTools
+    url: https://cy.tools
+    parent: software
+    weight: 10
+  - name: Contact
+    url: /#contact
+    weight: 50
