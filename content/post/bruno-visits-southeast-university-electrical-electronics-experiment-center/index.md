@@ -6,8 +6,8 @@ authors:
   - abdessamad-nassihi
   - ruiqi-chen
 categories:
-categories:
   - Homepage
+  - Visit
 tags:
   - Visit
   - Education

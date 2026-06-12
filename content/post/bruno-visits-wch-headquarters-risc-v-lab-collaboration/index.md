@@ -7,6 +7,7 @@ authors:
   - ruiqi-chen
 categories:
   - Homepage
+  - Visit
 tags:
   - Visit
   - RISC-V

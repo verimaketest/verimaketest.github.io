@@ -4,6 +4,8 @@ date: 2025-04-02
 authors:
   - ruiqi-chen
   - bruno-da-silva
+categories:
+  - Academic
 tags:
   - DATE 2025
   - Conference

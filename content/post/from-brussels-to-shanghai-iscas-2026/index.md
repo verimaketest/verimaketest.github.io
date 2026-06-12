@@ -7,6 +7,7 @@ authors:
   - bruno-da-silva
 categories:
   - Homepage
+  - Academic
 tags:
   - ISCAS 2026
   - Conference

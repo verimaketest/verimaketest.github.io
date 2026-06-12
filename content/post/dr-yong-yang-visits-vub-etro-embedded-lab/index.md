@@ -5,6 +5,7 @@ authors:
   - bruno-da-silva
 categories:
   - Homepage
+  - Visit
 tags:
   - Visit
   - Embedded Systems
