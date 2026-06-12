@@ -13,10 +13,8 @@ design:
   columns: '1'
   # Add custom styles
   css_style:
-  css_class:
+  css_class: welcome-hero
 ---
-
-<br>
 
 Welcome to the HEAD Lab — the Hybrid Embedded Artificial Intelligence and Digital Systems Laboratory.
 

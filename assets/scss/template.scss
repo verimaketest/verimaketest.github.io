@@ -20,3 +20,34 @@
 .no-navbar .home-section.fullscreenn,
 .no-navbar .fullscreenn {
   min-height: 20vh; }
+
+.welcome-hero .hero-lead {
+  margin-top: 0;
+}
+
+.welcome-hero .hero-media img {
+  max-width: 440px;
+  width: 78%;
+  margin: 0 auto;
+}
+
+@media (min-width: 992px) {
+  .welcome-hero .row {
+    align-items: flex-start;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .welcome-hero .hero-media img {
+    max-width: 320px;
+  }
+}
+
+.article-style p,
+.article-style li,
+.author-card .card-text,
+.author-page .article-style p,
+.author-page .article-style li {
+  text-align: justify;
+  text-justify: inter-word;
+}
