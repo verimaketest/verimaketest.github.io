@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Shidi Tang
+title: Abdessamad Nassihi
 
 weight: 30
 
 # Username (this should match the folder name)
 authors:
-  - shidi-tang
+  - abdessamad-nassihi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Visitors
+role: PhD Students
 
 # Organizations/Affiliations
 organizations:
-  - name: Southeast University
-    url: 'www.seu.edu.cn'
+  - name: VUB
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -71,7 +71,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - PhD Students
 ---
 
 Shidi is currently a Ph.D candidate advised by Prof. Ming of EECS-Ling Lab from School of Integrated Circuits, Southeast University. He is also a visiting Ph.D student advised by Prof. Bruno da Silva of ETRO from Vrije Universiteit Brussel.
