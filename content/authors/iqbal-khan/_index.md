@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Iqbal Khan
+title: Muhammad IQBAL Khan
 
 weight: 30
 
@@ -16,11 +16,11 @@ role: PhD Students
 
 # Organizations/Affiliations
 organizations:
-  - name: Southeast University
-    url: 'www.seu.edu.cn'
+  - name: VUB
+    url: 'https://www.vub.be/'
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on harnessing FPGA-technology for energy-constrained edge applications requiring continuous operation, with a particular focus on Flash-based FPGAs.
 
 #interests:
 #- Artificial Intelligence
@@ -46,19 +46,13 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'shidi.tang@vub.be'
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Shidi-Tang-3
+  link: 'muhammad.iqbal.khan@vub.be'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=mf6xshEAAAAJ
-- icon: github
-  icon_pack: ai
-  link: https://github.com/Glinttsd
-- icon: link
+  link: https://scholar.google.com/citations?user=2KhJnhsAAAAJ&hl=en&inst=11547987318464037549&oi=sra
+- icon: university
   icon_pack: fas
-  link: https://glinttsd.github.io/
+  link: https://researchportal.vub.be/en/persons/muhammad-iqbal-khan/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'muhammad.iqbal.khan@vub.be'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,6 +68,8 @@ user_groups:
   - PhD Students
 ---
 
-Shidi is currently a Ph.D candidate advised by Prof. Ming of EECS-Ling Lab from School of Integrated Circuits, Southeast University. He is also a visiting Ph.D student advised by Prof. Bruno da Silva of ETRO from Vrije Universiteit Brussel.
+## Research Interests
 
-He received his B.S. and M.S. degrees from Central China Normal University (CCNU) and Nanjing University of Posts and Telecommunications (NJUPT), separately.
+### Energy-efficient Edge devices
+
+Battery-powered embedded systems are increasingly used in edge applications such as wearables, sensor nodes, and IoT devices. Their small form factor limits battery capacity and computing resources, while growing demands for multimodal sensing, privacy, low latency, and edge AI push more processing to the edge and increase energy consumption. The rapid evolution of edge AI also necessitates reconfigurability, field-update capability, and shorter development cycles. These challenges require platforms that combine computational power, parallelism, flexibility, and field reconfigurability within tight energy budgets. FPGAs offer a middle ground; however, they are not as power-efficient as low-power MCUs and ASICs. Our research focuses on optimization strategies to harness FPGAs energy-efficiently in such applications.
