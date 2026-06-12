@@ -73,4 +73,6 @@ user_groups:
 
 Ruiqi Chen obtained his M.S. degree in Integrated Circuit Engineering from Fuzhou University in 2020, and the B.S. degree in Electronic Science and Technology from Southeast University Chengxian College in 2017. From 2020 to 2023, he served as a Research Assistant with VeriMake Innovation Lab, Fudan University, and Southeast University, respectively.
 
-Since 2024, he has been a joint Ph.D. candidate under the supervision of Prof. Bruno da Silva at the Department of Electronics and Informatics (ETRO) of Vrije Universiteit Brussel (VUB), and Prof. Dirk Stroobandt at the Hardware and Embedded Systems Group (HES) of Universiteit Gent (UGent). His research focused on SW/HW co-optimization for specific computation tasks with irregular process.
+Since 2024, he has been a joint Ph.D. candidate under the supervision of <a href="https://www.etrovub.be/people/member/about-bio/bdasilva/">Prof. Bruno da Silva</a> (VUB) and <a href="https://hes.elis.ugent.be/members/dstroob.html">Prof. Dirk Stroobandt</a> (UGent). His research focused on SW/HW co-optimization for specific computation tasks with irregular process.
+
+<a href="https://ruiqichen7.github.io/">More information</a>
